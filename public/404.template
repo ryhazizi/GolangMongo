@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<title>Halaman Tidak Ditemukan</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+<div class="w3-container">
+  <div class="w3-panel w3-pale-yellow">
+    <p>404 Not Found.</p>
+  </div>
+  <p>
+  	<a href="/" class="w3-text-blue" style="text-decoration: none;"><--- Kembali</a>
+  </p>
+</div>
+</body>
+</html>
